@@ -4,4 +4,5 @@ A POC on how engine data can be used to predict the maintainance status of vesse
 
 ## Features Correlation matrix
 This plot shows that the features have low correlation with each other, showing feature independence. As such, each feature will be a great addition for the modelling of this task.
+
 ![Correlation Matrix](imgs/features_correlation_matrix.png)
