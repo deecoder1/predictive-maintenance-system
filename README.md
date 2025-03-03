@@ -6,3 +6,13 @@ A POC on how engine data can be used to predict the maintainance status of vesse
 This plot shows that the features have low correlation with each other, showing feature independence. As such, each feature will be a great addition for the modelling of this task.
 
 ![Correlation Matrix](imgs/features_correlation_matrix.png)
+
+
+## EDA on features
+## Histogram of Engine RPM
+
+![hist_engine_rpm](imgs/hist_engine_rpm.png)
+
+## Boxplot of Engine RPM
+
+![boxplot_engine_rpm](imgs/boxplot_engine_rpm.png)
