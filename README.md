@@ -16,3 +16,9 @@ This plot shows that the features have low correlation with each other, showing 
 ## Boxplot of Engine RPM
 
 ![boxplot_engine_rpm](imgs/boxplot_engine_rpm.png)
+
+
+## Model results
+Trained 4 different models. Results summarised below
+
+![predictive_maintainance_results](imgs/predictive_maintainance_results.png)
