@@ -1,7 +1,6 @@
+archive
 .DS_Store
-data
-pred-env
-*.ipynb
+archive
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
