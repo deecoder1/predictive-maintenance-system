@@ -19,6 +19,6 @@ This plot shows that the features have low correlation with each other, showing 
 
 
 ## Model results
-Trained 4 different models. Results summarised below
+Trained 4 different models. Results summarised below. A 65% accuracy is reasonable for real-world predictive maintenance due to sensor noise, data imbalance, and complex engine dynamics. Despite not being perfect, it still provides valuable insights, enabling proactive maintenance and reducing unplanned downtime. Given the challenges of real-world data, this level of accuracy can effectively support decision-making and improve operational efficiency. 🚀
 
 ![predictive_maintainance_results](imgs/predictive_maintainance_results.jpg)
