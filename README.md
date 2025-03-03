@@ -1,2 +1,3 @@
 # predictive-maintenance-system
-develop a POC on how engine data cna be used to predict time to do engine maintenance 
+
+A POC on how engine data can be used to predict the maintainance status of vessels at PSA Marine using a Kaggle dataset.
